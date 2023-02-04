@@ -1,4 +1,8 @@
-## nostr-vertification
+# nostr-vertification
+
+- [snort.social/@snamiki1212](https://snort.social/p/npub1fvrzkfa99l0hq28ypalyft9j8n8tduvq2fx3aczn95nnu4hc6u2sxxlkrd)
+
+## Tools
 
 - Convert from public key as npub format to hex key:
   - [damus key converter](https://damus.io/key/)
